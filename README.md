@@ -1,20 +1,33 @@
+# 📂 **Cybersecurity Tools & Labs (README)**
+
+```markdown
 # Cybersecurity Tools & Labs
 
-This repository documents security tool configurations and small-scale security engineering labs designed to demonstrate core concepts.
+This repository contains additional hands-on security projects and tools beyond traditional cloud/networking labs. These projects strengthen skills relevant for SOC analysts, security engineers, and blue team roles.
+```
+---
 
-## Lab Topics
+## Lab Categories
 
-- ✅ **Snort IDS/IPS Configuration**
-- ✅ **Log Collection & SIEM Parsing**
+- ✅ **Snort IDS/IPS Deployment**
+- ✅ **SIEM & Log Analysis**
 - ✅ **SSH Hardening & Secure Configs**
+- ✅ **System Hardening**
 - ✅ **Security Event Analysis**
-- ✅ **System Hardening Procedures**
-
-## Purpose
-
-These labs complement my network and cloud security projects, providing broader experience with security operations tooling.
 
 ---
+
+##  Repository Structure
+
+```markdown
+# /cybersecurity-tools-and-labs
+
+  /snort-idps          → IDS/IPS Rule Creation & Packet Capture Analysis
+  /siem-log-analysis   → Parsing Security Logs (CloudTrail, Syslog, Palo Alto)
+  /ssh-hardening       → Key-Based Authentication, SSH Port Modifications
+  /system-hardening    → Operating System Security Baseline Configurations
+  /event-analysis      → Simulated Security Incident Scenarios
+```
 
 ## Certifications Supported:
 
