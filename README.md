@@ -3,7 +3,8 @@
 ```markdown
 # Cybersecurity Tools & Labs
 
-This repository contains additional hands-on security projects and tools beyond traditional cloud/networking labs. These projects strengthen skills relevant for SOC analysts, security engineers, and blue team roles.
+This repository contains additional hands-on security projects and tools beyond traditional cloud/networking labs.
+These projects strengthen skills relevant for SOC analysts, security engineers, and blue team roles.
 ```
 ---
 
